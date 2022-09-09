@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek Mishra</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate web developer from India</h3>
 
 <img align="right" height="300px" src="https://github.com/NatwarBHAI/image/raw/main/giphy.gif">
 
