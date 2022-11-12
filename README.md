@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Vivek Mishra</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=A+Passionate+Web+Developer+From+India;Backend+Developer;Java+Developer&center=true&width=500&height=50" />
+</h3>
 
 <img align="right" height="300px" src="https://github.com/NatwarBHAI/image/raw/main/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natwarbhai&label=Profile%20views&color=0e75b6&style=flat" alt="natwarbhai" /> </p>
 
-- 🌱 I’m currently learning- **Java .**
+- 🌱 I’m currently learning- **Spring-Boot .**
 
 - 📫 How to reach me- **vivek08152022@gmail.com .**
 
-- ⚡ Fun fact- **I think I am funny .**
-- 🎓 I am Vivek Mishra, a aspiring Web Developer. I am Pursuing in masai school for becoming full stack web developer.
-- 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from cooking, singing, sketching and touch typing to some whacky ones like writing with my left hand.
-- 📚 I also love reading books on personal development & financial literacy. My favorite ones are The Compound Effect by Darren Hardy in the genre of personal development and Rich Dad Poor Dad by Robert Kiyosaki in the genre of financial literacy.
-- ✈️ I love traveling too. I have been on school trips to nainital in 2017 and family trips to lahan, city in Nepal in 2019.
+- ⚡ Fact- **First solve the problem, then write the code <img  width="20px" src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png?v8.png" />**
+- 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills.
+-    *I love to make friends. so if you want to say hi, I'll be happy to meet you more! 😊.*
 <p align="left">
 </p>
 <h3 align="left">Connect with me:</h3>
