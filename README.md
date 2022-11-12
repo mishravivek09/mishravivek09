@@ -11,7 +11,7 @@
 
 - 📫 How to reach me- **vivek08152022@gmail.com .**
 
-- ⚡ Fact- **First solve the problem, then write the code <img  width="20px" src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png?v8.png" />**
+- ⚡ Fact- **First solve the problem, then write the code <img  width="15px" src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png?v8.png" />**
 - 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills.
 -    *I love to make friends. so if you want to say hi, I'll be happy to meet you more! 😊.*
 <p align="left">
